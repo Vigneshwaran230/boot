@@ -1,0 +1,44 @@
+.container{
+    border:1px solid red;
+    background-color: rgb(135, 135, 151);
+}
+.bg{
+    padding: 2px;
+    background-color: rgb(135, 135, 151);
+    border:1px solid whitesmoke;
+}
+ol li{
+    display: inline;
+    /* padding:5px; */
+    /* margin-right: 10px; */
+  }
+  .gb{
+    padding: 2px;
+    background-color: rgb(214, 232, 247);
+    border:1px solid whitesmoke;
+}
+img{
+    max-height:100%;
+    max-width:100%;
+    /* display: block; */
+    margin-left: auto;
+    margin-right: auto;
+  }
+.bg1{
+    background-color:#fde61c;
+
+    border:1px solid whitesmoke;
+}
+.bg2{
+    background-color:#ee47dd;
+
+    border:1px solid whitesmoke;
+}
+.b2{
+    font-family:"poppins",color-burn;
+    font-size:30px;
+    margin-bottom: 0px;
+}
+.p2{
+    font-size:10px;
+}
